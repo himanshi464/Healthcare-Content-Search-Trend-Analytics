@@ -1,0 +1,31 @@
+Doctor_ID,Specialty,City
+D001,Diabetology,Delhi
+D002,Diabetology,Mumbai
+D003,Diabetology,Bengaluru
+D004,Diabetology,Pune
+D005,Diabetology,Hyderabad
+D006,Pediatrics,Chennai
+D007,Pediatrics,Delhi
+D008,Pediatrics,Mumbai
+D009,Pediatrics,Bengaluru
+D010,Pediatrics,Pune
+D011,Neurology,Hyderabad
+D012,Neurology,Chennai
+D013,Neurology,Delhi
+D014,Neurology,Mumbai
+D015,Neurology,Bengaluru
+D016,Dermatology,Pune
+D017,Dermatology,Hyderabad
+D018,Dermatology,Chennai
+D019,Dermatology,Delhi
+D020,Dermatology,Mumbai
+D021,Cardiology,Bengaluru
+D022,Cardiology,Pune
+D023,Cardiology,Hyderabad
+D024,Cardiology,Chennai
+D025,Cardiology,Delhi
+D026,General Medicine,Mumbai
+D027,General Medicine,Bengaluru
+D028,General Medicine,Pune
+D029,General Medicine,Hyderabad
+D030,General Medicine,Chennai

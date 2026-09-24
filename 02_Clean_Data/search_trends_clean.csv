@@ -1,0 +1,361 @@
+Date,Specialty,Topic,Keyword,Search Interest,Trend Change %,Region
+2025-01-01,Diabetology,Diabetes,diabetes,73.3,12.4,India
+2025-02-01,Diabetology,Diabetes,diabetes,65.7,4.3,India
+2025-03-01,Diabetology,Diabetes,diabetes,79.0,-5.5,India
+2025-04-01,Diabetology,Diabetes,diabetes,87.1,3.7,India
+2025-05-01,Diabetology,Diabetes,diabetes,85.7,-5.6,India
+2025-06-01,Diabetology,Diabetes,diabetes,74.8,11.8,India
+2025-07-01,Diabetology,Diabetes,diabetes,72.8,-3.8,India
+2025-08-01,Diabetology,Diabetes,diabetes,73.4,-1.3,India
+2025-09-01,Diabetology,Diabetes,diabetes,68.3,6.7,India
+2025-10-01,Diabetology,Diabetes,diabetes,69.4,24.4,India
+2025-11-01,Diabetology,Diabetes,diabetes,63.9,-5.1,India
+2025-12-01,Diabetology,Diabetes,diabetes,76.6,1.9,India
+2025-01-01,Diabetology,Blood Sugar,blood sugar,59.2,10.4,India
+2025-02-01,Diabetology,Blood Sugar,blood sugar,60.5,5.3,India
+2025-03-01,Diabetology,Blood Sugar,blood sugar,65.1,11.7,India
+2025-04-01,Diabetology,Blood Sugar,blood sugar,68.0,3.7,India
+2025-05-01,Diabetology,Blood Sugar,blood sugar,67.2,-11.6,India
+2025-06-01,Diabetology,Blood Sugar,blood sugar,59.0,-3.4,India
+2025-07-01,Diabetology,Blood Sugar,blood sugar,64.0,-5.7,India
+2025-08-01,Diabetology,Blood Sugar,blood sugar,51.7,-0.3,India
+2025-09-01,Diabetology,Blood Sugar,blood sugar,56.5,10.1,India
+2025-10-01,Diabetology,Blood Sugar,blood sugar,53.6,-1.6,India
+2025-11-01,Diabetology,Blood Sugar,blood sugar,55.2,-9.8,India
+2025-12-01,Diabetology,Blood Sugar,blood sugar,49.2,8.0,India
+2025-01-01,Diabetology,HbA1c,hba1c,49.5,4.6,India
+2025-02-01,Diabetology,HbA1c,hba1c,52.3,7.6,India
+2025-03-01,Diabetology,HbA1c,hba1c,51.1,-0.8,India
+2025-04-01,Diabetology,HbA1c,hba1c,53.9,-1.7,India
+2025-05-01,Diabetology,HbA1c,hba1c,55.9,7.5,India
+2025-06-01,Diabetology,HbA1c,hba1c,53.3,-1.2,India
+2025-07-01,Diabetology,HbA1c,hba1c,42.8,-11.5,India
+2025-08-01,Diabetology,HbA1c,hba1c,40.2,7.0,India
+2025-09-01,Diabetology,HbA1c,hba1c,41.8,16.0,India
+2025-10-01,Diabetology,HbA1c,hba1c,46.9,-6.3,India
+2025-11-01,Diabetology,HbA1c,hba1c,41.1,-0.4,India
+2025-12-01,Diabetology,HbA1c,hba1c,42.2,7.3,India
+2025-01-01,Diabetology,Diabetic Diet,diabetic diet,56.5,3.7,India
+2025-02-01,Diabetology,Diabetic Diet,diabetic diet,66.6,3.2,India
+2025-03-01,Diabetology,Diabetic Diet,diabetic diet,73.2,-7.2,India
+2025-04-01,Diabetology,Diabetic Diet,diabetic diet,71.8,16.6,India
+2025-05-01,Diabetology,Diabetic Diet,diabetic diet,73.3,17.6,India
+2025-06-01,Diabetology,Diabetic Diet,diabetic diet,61.2,-6.3,India
+2025-07-01,Diabetology,Diabetic Diet,diabetic diet,57.3,9.4,India
+2025-08-01,Diabetology,Diabetic Diet,diabetic diet,54.2,-7.2,India
+2025-09-01,Diabetology,Diabetic Diet,diabetic diet,62.7,23.0,India
+2025-10-01,Diabetology,Diabetic Diet,diabetic diet,67.6,-6.9,India
+2025-11-01,Diabetology,Diabetic Diet,diabetic diet,53.4,-5.1,India
+2025-12-01,Diabetology,Diabetic Diet,diabetic diet,57.1,1.6,India
+2025-01-01,Diabetology,Insulin,insulin,76.2,-7.4,India
+2025-02-01,Diabetology,Insulin,insulin,72.4,2.5,India
+2025-03-01,Diabetology,Insulin,insulin,89.5,12.8,India
+2025-04-01,Diabetology,Insulin,insulin,77.5,-6.7,India
+2025-05-01,Diabetology,Insulin,insulin,88.9,-5.2,India
+2025-06-01,Diabetology,Insulin,insulin,79.4,12.3,India
+2025-07-01,Diabetology,Insulin,insulin,77.0,2.6,India
+2025-08-01,Diabetology,Insulin,insulin,72.0,-1.5,India
+2025-09-01,Diabetology,Insulin,insulin,60.4,4.7,India
+2025-10-01,Diabetology,Insulin,insulin,74.7,1.8,India
+2025-11-01,Diabetology,Insulin,insulin,75.9,5.2,India
+2025-12-01,Diabetology,Insulin,insulin,75.5,7.3,India
+2025-01-01,Pediatrics,Child Nutrition,child nutrition,68.0,-10.7,India
+2025-02-01,Pediatrics,Child Nutrition,child nutrition,88.2,1.2,India
+2025-03-01,Pediatrics,Child Nutrition,child nutrition,83.2,-8.1,India
+2025-04-01,Pediatrics,Child Nutrition,child nutrition,79.2,-0.9,India
+2025-05-01,Pediatrics,Child Nutrition,child nutrition,77.9,6.4,India
+2025-06-01,Pediatrics,Child Nutrition,child nutrition,80.9,9.4,India
+2025-07-01,Pediatrics,Child Nutrition,child nutrition,65.5,-5.4,India
+2025-08-01,Pediatrics,Child Nutrition,child nutrition,61.2,-0.3,India
+2025-09-01,Pediatrics,Child Nutrition,child nutrition,63.8,3.3,India
+2025-10-01,Pediatrics,Child Nutrition,child nutrition,62.2,13.0,India
+2025-11-01,Pediatrics,Child Nutrition,child nutrition,73.2,1.5,India
+2025-12-01,Pediatrics,Child Nutrition,child nutrition,65.6,5.4,India
+2025-01-01,Pediatrics,Vaccination,vaccination,63.8,5.3,India
+2025-02-01,Pediatrics,Vaccination,vaccination,85.1,-5.5,India
+2025-03-01,Pediatrics,Vaccination,vaccination,65.8,-2.9,India
+2025-04-01,Pediatrics,Vaccination,vaccination,79.1,-4.3,India
+2025-05-01,Pediatrics,Vaccination,vaccination,61.9,1.4,India
+2025-06-01,Pediatrics,Vaccination,vaccination,64.7,-5.8,India
+2025-07-01,Pediatrics,Vaccination,vaccination,59.4,-11.7,India
+2025-08-01,Pediatrics,Vaccination,vaccination,64.6,-8.0,India
+2025-09-01,Pediatrics,Vaccination,vaccination,78.1,-8.7,India
+2025-10-01,Pediatrics,Vaccination,vaccination,60.3,20.3,India
+2025-11-01,Pediatrics,Vaccination,vaccination,57.0,10.8,India
+2025-12-01,Pediatrics,Vaccination,vaccination,63.2,1.7,India
+2025-01-01,Pediatrics,Fever,fever,39.3,5.3,India
+2025-02-01,Pediatrics,Fever,fever,43.7,13.1,India
+2025-03-01,Pediatrics,Fever,fever,46.0,3.5,India
+2025-04-01,Pediatrics,Fever,fever,42.0,6.2,India
+2025-05-01,Pediatrics,Fever,fever,52.5,18.7,India
+2025-06-01,Pediatrics,Fever,fever,40.5,-8.1,India
+2025-07-01,Pediatrics,Fever,fever,44.0,7.8,India
+2025-08-01,Pediatrics,Fever,fever,39.2,7.5,India
+2025-09-01,Pediatrics,Fever,fever,33.3,5.6,India
+2025-10-01,Pediatrics,Fever,fever,35.6,2.0,India
+2025-11-01,Pediatrics,Fever,fever,37.4,17.7,India
+2025-12-01,Pediatrics,Fever,fever,33.1,4.8,India
+2025-01-01,Pediatrics,Immunity,immunity,40.5,6.3,India
+2025-02-01,Pediatrics,Immunity,immunity,48.4,11.6,India
+2025-03-01,Pediatrics,Immunity,immunity,51.5,-7.5,India
+2025-04-01,Pediatrics,Immunity,immunity,57.6,8.8,India
+2025-05-01,Pediatrics,Immunity,immunity,61.0,7.4,India
+2025-06-01,Pediatrics,Immunity,immunity,56.3,11.3,India
+2025-07-01,Pediatrics,Immunity,immunity,47.9,-4.0,India
+2025-08-01,Pediatrics,Immunity,immunity,43.3,10.8,India
+2025-09-01,Pediatrics,Immunity,immunity,48.4,10.5,India
+2025-10-01,Pediatrics,Immunity,immunity,50.4,-12.7,India
+2025-11-01,Pediatrics,Immunity,immunity,39.3,-2.2,India
+2025-12-01,Pediatrics,Immunity,immunity,51.7,-4.0,India
+2025-01-01,Pediatrics,Newborn Care,newborn care,77.6,-3.7,India
+2025-02-01,Pediatrics,Newborn Care,newborn care,92.2,9.1,India
+2025-03-01,Pediatrics,Newborn Care,newborn care,82.2,3.7,India
+2025-04-01,Pediatrics,Newborn Care,newborn care,98.5,-17.6,India
+2025-05-01,Pediatrics,Newborn Care,newborn care,89.6,-12.8,India
+2025-06-01,Pediatrics,Newborn Care,newborn care,93.4,11.5,India
+2025-07-01,Pediatrics,Newborn Care,newborn care,83.4,13.7,India
+2025-08-01,Pediatrics,Newborn Care,newborn care,80.0,5.7,India
+2025-09-01,Pediatrics,Newborn Care,newborn care,71.4,1.5,India
+2025-10-01,Pediatrics,Newborn Care,newborn care,79.5,-7.6,India
+2025-11-01,Pediatrics,Newborn Care,newborn care,80.6,-4.4,India
+2025-12-01,Pediatrics,Newborn Care,newborn care,76.0,11.4,India
+2025-01-01,Neurology,Migraine,migraine,60.5,11.4,India
+2025-02-01,Neurology,Migraine,migraine,67.2,0.9,India
+2025-03-01,Neurology,Migraine,migraine,60.0,-1.6,India
+2025-04-01,Neurology,Migraine,migraine,64.7,-13.0,India
+2025-05-01,Neurology,Migraine,migraine,49.0,-4.9,India
+2025-06-01,Neurology,Migraine,migraine,59.7,5.8,India
+2025-07-01,Neurology,Migraine,migraine,41.2,3.5,India
+2025-08-01,Neurology,Migraine,migraine,51.8,10.0,India
+2025-09-01,Neurology,Migraine,migraine,52.5,5.3,India
+2025-10-01,Neurology,Migraine,migraine,46.9,1.2,India
+2025-11-01,Neurology,Migraine,migraine,52.9,-0.9,India
+2025-12-01,Neurology,Migraine,migraine,51.3,1.8,India
+2025-01-01,Neurology,Headache,headache,29.0,-11.8,India
+2025-02-01,Neurology,Headache,headache,32.8,10.5,India
+2025-03-01,Neurology,Headache,headache,41.1,13.9,India
+2025-04-01,Neurology,Headache,headache,43.3,16.5,India
+2025-05-01,Neurology,Headache,headache,37.6,-2.9,India
+2025-06-01,Neurology,Headache,headache,33.4,-0.6,India
+2025-07-01,Neurology,Headache,headache,45.8,-10.8,India
+2025-08-01,Neurology,Headache,headache,32.2,7.7,India
+2025-09-01,Neurology,Headache,headache,26.8,12.3,India
+2025-10-01,Neurology,Headache,headache,30.7,-7.7,India
+2025-11-01,Neurology,Headache,headache,34.9,1.1,India
+2025-12-01,Neurology,Headache,headache,37.7,16.2,India
+2025-01-01,Neurology,Stroke,stroke,51.0,-0.3,India
+2025-02-01,Neurology,Stroke,stroke,56.6,1.7,India
+2025-03-01,Neurology,Stroke,stroke,63.0,23.8,India
+2025-04-01,Neurology,Stroke,stroke,55.9,13.8,India
+2025-05-01,Neurology,Stroke,stroke,53.8,2.7,India
+2025-06-01,Neurology,Stroke,stroke,49.9,-12.9,India
+2025-07-01,Neurology,Stroke,stroke,40.9,-1.6,India
+2025-08-01,Neurology,Stroke,stroke,54.7,14.1,India
+2025-09-01,Neurology,Stroke,stroke,45.0,-1.1,India
+2025-10-01,Neurology,Stroke,stroke,45.2,9.2,India
+2025-11-01,Neurology,Stroke,stroke,49.2,-8.4,India
+2025-12-01,Neurology,Stroke,stroke,58.0,5.2,India
+2025-01-01,Neurology,Sleep,sleep,74.5,2.4,India
+2025-02-01,Neurology,Sleep,sleep,71.8,7.3,India
+2025-03-01,Neurology,Sleep,sleep,78.0,13.9,India
+2025-04-01,Neurology,Sleep,sleep,79.1,7.5,India
+2025-05-01,Neurology,Sleep,sleep,80.8,-15.3,India
+2025-06-01,Neurology,Sleep,sleep,66.4,-12.0,India
+2025-07-01,Neurology,Sleep,sleep,79.8,-4.2,India
+2025-08-01,Neurology,Sleep,sleep,51.5,-2.4,India
+2025-09-01,Neurology,Sleep,sleep,75.2,-2.6,India
+2025-10-01,Neurology,Sleep,sleep,59.9,0.0,India
+2025-11-01,Neurology,Sleep,sleep,65.6,10.9,India
+2025-12-01,Neurology,Sleep,sleep,72.0,-3.9,India
+2025-01-01,Neurology,Memory,memory,78.6,-5.9,India
+2025-02-01,Neurology,Memory,memory,84.5,17.0,India
+2025-03-01,Neurology,Memory,memory,87.8,4.3,India
+2025-04-01,Neurology,Memory,memory,91.6,-0.6,India
+2025-05-01,Neurology,Memory,memory,78.4,7.5,India
+2025-06-01,Neurology,Memory,memory,77.8,-2.4,India
+2025-07-01,Neurology,Memory,memory,71.2,-4.9,India
+2025-08-01,Neurology,Memory,memory,63.8,5.5,India
+2025-09-01,Neurology,Memory,memory,68.5,1.4,India
+2025-10-01,Neurology,Memory,memory,65.8,10.1,India
+2025-11-01,Neurology,Memory,memory,74.0,8.6,India
+2025-12-01,Neurology,Memory,memory,82.1,2.1,India
+2025-01-01,Dermatology,Acne,acne,73.6,-9.4,India
+2025-02-01,Dermatology,Acne,acne,81.0,6.3,India
+2025-03-01,Dermatology,Acne,acne,84.6,12.0,India
+2025-04-01,Dermatology,Acne,acne,90.6,-3.5,India
+2025-05-01,Dermatology,Acne,acne,90.2,-11.5,India
+2025-06-01,Dermatology,Acne,acne,85.3,-6.0,India
+2025-07-01,Dermatology,Acne,acne,75.3,16.4,India
+2025-08-01,Dermatology,Acne,acne,80.0,6.6,India
+2025-09-01,Dermatology,Acne,acne,60.2,0.1,India
+2025-10-01,Dermatology,Acne,acne,71.4,23.0,India
+2025-11-01,Dermatology,Acne,acne,65.9,5.4,India
+2025-12-01,Dermatology,Acne,acne,77.4,5.5,India
+2025-01-01,Dermatology,Hair Loss,hair loss,61.2,-1.2,India
+2025-02-01,Dermatology,Hair Loss,hair loss,76.8,5.4,India
+2025-03-01,Dermatology,Hair Loss,hair loss,74.2,-2.8,India
+2025-04-01,Dermatology,Hair Loss,hair loss,80.5,-3.4,India
+2025-05-01,Dermatology,Hair Loss,hair loss,82.7,7.5,India
+2025-06-01,Dermatology,Hair Loss,hair loss,72.0,-7.3,India
+2025-07-01,Dermatology,Hair Loss,hair loss,66.8,7.5,India
+2025-08-01,Dermatology,Hair Loss,hair loss,60.4,10.1,India
+2025-09-01,Dermatology,Hair Loss,hair loss,63.8,17.5,India
+2025-10-01,Dermatology,Hair Loss,hair loss,63.2,5.7,India
+2025-11-01,Dermatology,Hair Loss,hair loss,65.4,-2.3,India
+2025-12-01,Dermatology,Hair Loss,hair loss,72.2,-7.4,India
+2025-01-01,Dermatology,Skin Allergy,skin allergy,93.5,-1.1,India
+2025-02-01,Dermatology,Skin Allergy,skin allergy,73.5,0.1,India
+2025-03-01,Dermatology,Skin Allergy,skin allergy,79.2,8.8,India
+2025-04-01,Dermatology,Skin Allergy,skin allergy,81.3,10.0,India
+2025-05-01,Dermatology,Skin Allergy,skin allergy,92.2,-0.4,India
+2025-06-01,Dermatology,Skin Allergy,skin allergy,83.5,-14.3,India
+2025-07-01,Dermatology,Skin Allergy,skin allergy,76.7,21.5,India
+2025-08-01,Dermatology,Skin Allergy,skin allergy,79.8,-8.0,India
+2025-09-01,Dermatology,Skin Allergy,skin allergy,74.2,-5.7,India
+2025-10-01,Dermatology,Skin Allergy,skin allergy,75.3,-0.2,India
+2025-11-01,Dermatology,Skin Allergy,skin allergy,64.9,-6.0,India
+2025-12-01,Dermatology,Skin Allergy,skin allergy,72.2,-14.1,India
+2025-01-01,Dermatology,Eczema,eczema,50.3,-22.6,India
+2025-02-01,Dermatology,Eczema,eczema,56.7,-4.1,India
+2025-03-01,Dermatology,Eczema,eczema,56.0,6.5,India
+2025-04-01,Dermatology,Eczema,eczema,63.6,6.9,India
+2025-05-01,Dermatology,Eczema,eczema,58.6,9.3,India
+2025-06-01,Dermatology,Eczema,eczema,54.6,-1.4,India
+2025-07-01,Dermatology,Eczema,eczema,53.3,18.0,India
+2025-08-01,Dermatology,Eczema,eczema,45.9,6.1,India
+2025-09-01,Dermatology,Eczema,eczema,50.1,-19.5,India
+2025-10-01,Dermatology,Eczema,eczema,41.1,-20.2,India
+2025-11-01,Dermatology,Eczema,eczema,40.9,1.0,India
+2025-12-01,Dermatology,Eczema,eczema,50.3,-7.3,India
+2025-01-01,Dermatology,Sunscreen,sunscreen,52.9,-6.1,India
+2025-02-01,Dermatology,Sunscreen,sunscreen,57.4,9.5,India
+2025-03-01,Dermatology,Sunscreen,sunscreen,61.7,-7.4,India
+2025-04-01,Dermatology,Sunscreen,sunscreen,58.8,-9.2,India
+2025-05-01,Dermatology,Sunscreen,sunscreen,57.8,-0.5,India
+2025-06-01,Dermatology,Sunscreen,sunscreen,54.1,14.3,India
+2025-07-01,Dermatology,Sunscreen,sunscreen,42.7,-6.2,India
+2025-08-01,Dermatology,Sunscreen,sunscreen,56.2,10.7,India
+2025-09-01,Dermatology,Sunscreen,sunscreen,42.3,7.5,India
+2025-10-01,Dermatology,Sunscreen,sunscreen,51.1,1.1,India
+2025-11-01,Dermatology,Sunscreen,sunscreen,50.8,10.8,India
+2025-12-01,Dermatology,Sunscreen,sunscreen,47.0,-19.5,India
+2025-01-01,Cardiology,Blood Pressure,blood pressure,45.5,-15.6,India
+2025-02-01,Cardiology,Blood Pressure,blood pressure,53.4,21.0,India
+2025-03-01,Cardiology,Blood Pressure,blood pressure,50.8,-5.9,India
+2025-04-01,Cardiology,Blood Pressure,blood pressure,50.6,-7.2,India
+2025-05-01,Cardiology,Blood Pressure,blood pressure,62.6,14.4,India
+2025-06-01,Cardiology,Blood Pressure,blood pressure,50.9,9.4,India
+2025-07-01,Cardiology,Blood Pressure,blood pressure,53.0,9.4,India
+2025-08-01,Cardiology,Blood Pressure,blood pressure,48.8,6.4,India
+2025-09-01,Cardiology,Blood Pressure,blood pressure,39.6,-2.6,India
+2025-10-01,Cardiology,Blood Pressure,blood pressure,46.4,20.3,India
+2025-11-01,Cardiology,Blood Pressure,blood pressure,46.9,16.5,India
+2025-12-01,Cardiology,Blood Pressure,blood pressure,45.6,-7.9,India
+2025-01-01,Cardiology,Cholesterol,cholesterol,38.6,2.5,India
+2025-02-01,Cardiology,Cholesterol,cholesterol,52.9,11.9,India
+2025-03-01,Cardiology,Cholesterol,cholesterol,48.4,3.4,India
+2025-04-01,Cardiology,Cholesterol,cholesterol,43.3,1.5,India
+2025-05-01,Cardiology,Cholesterol,cholesterol,41.0,8.1,India
+2025-06-01,Cardiology,Cholesterol,cholesterol,39.5,1.8,India
+2025-07-01,Cardiology,Cholesterol,cholesterol,49.8,13.3,India
+2025-08-01,Cardiology,Cholesterol,cholesterol,38.2,-7.8,India
+2025-09-01,Cardiology,Cholesterol,cholesterol,42.1,15.9,India
+2025-10-01,Cardiology,Cholesterol,cholesterol,40.9,-9.4,India
+2025-11-01,Cardiology,Cholesterol,cholesterol,40.1,1.0,India
+2025-12-01,Cardiology,Cholesterol,cholesterol,41.3,-2.0,India
+2025-01-01,Cardiology,Heart Attack,heart attack,38.7,5.4,India
+2025-02-01,Cardiology,Heart Attack,heart attack,37.6,-1.8,India
+2025-03-01,Cardiology,Heart Attack,heart attack,41.1,-18.2,India
+2025-04-01,Cardiology,Heart Attack,heart attack,40.5,3.3,India
+2025-05-01,Cardiology,Heart Attack,heart attack,47.8,-23.7,India
+2025-06-01,Cardiology,Heart Attack,heart attack,48.6,-8.3,India
+2025-07-01,Cardiology,Heart Attack,heart attack,36.0,-5.9,India
+2025-08-01,Cardiology,Heart Attack,heart attack,42.8,21.4,India
+2025-09-01,Cardiology,Heart Attack,heart attack,43.3,3.4,India
+2025-10-01,Cardiology,Heart Attack,heart attack,38.5,4.3,India
+2025-11-01,Cardiology,Heart Attack,heart attack,49.6,11.5,India
+2025-12-01,Cardiology,Heart Attack,heart attack,40.3,-0.6,India
+2025-01-01,Cardiology,Heart Health,heart health,60.9,5.8,India
+2025-02-01,Cardiology,Heart Health,heart health,62.7,7.2,India
+2025-03-01,Cardiology,Heart Health,heart health,61.0,-6.8,India
+2025-04-01,Cardiology,Heart Health,heart health,60.2,3.8,India
+2025-05-01,Cardiology,Heart Health,heart health,64.9,-10.4,India
+2025-06-01,Cardiology,Heart Health,heart health,57.9,2.5,India
+2025-07-01,Cardiology,Heart Health,heart health,55.1,10.2,India
+2025-08-01,Cardiology,Heart Health,heart health,48.1,-16.6,India
+2025-09-01,Cardiology,Heart Health,heart health,52.4,2.0,India
+2025-10-01,Cardiology,Heart Health,heart health,53.4,12.5,India
+2025-11-01,Cardiology,Heart Health,heart health,45.7,-7.9,India
+2025-12-01,Cardiology,Heart Health,heart health,61.2,-1.3,India
+2025-01-01,Cardiology,ECG,ecg,33.5,-2.6,India
+2025-02-01,Cardiology,ECG,ecg,41.3,-0.1,India
+2025-03-01,Cardiology,ECG,ecg,42.5,-5.6,India
+2025-04-01,Cardiology,ECG,ecg,38.5,6.9,India
+2025-05-01,Cardiology,ECG,ecg,42.9,18.9,India
+2025-06-01,Cardiology,ECG,ecg,49.0,0.7,India
+2025-07-01,Cardiology,ECG,ecg,37.8,-7.8,India
+2025-08-01,Cardiology,ECG,ecg,38.1,8.6,India
+2025-09-01,Cardiology,ECG,ecg,39.2,14.6,India
+2025-10-01,Cardiology,ECG,ecg,40.6,16.6,India
+2025-11-01,Cardiology,ECG,ecg,31.8,-5.7,India
+2025-12-01,Cardiology,ECG,ecg,35.8,1.3,India
+2025-01-01,General Medicine,Fever,fever,60.7,0.7,India
+2025-02-01,General Medicine,Fever,fever,62.7,7.5,India
+2025-03-01,General Medicine,Fever,fever,74.4,6.1,India
+2025-04-01,General Medicine,Fever,fever,62.5,2.1,India
+2025-05-01,General Medicine,Fever,fever,70.7,5.1,India
+2025-06-01,General Medicine,Fever,fever,66.8,15.0,India
+2025-07-01,General Medicine,Fever,fever,58.9,6.4,India
+2025-08-01,General Medicine,Fever,fever,50.2,-33.5,India
+2025-09-01,General Medicine,Fever,fever,51.6,7.8,India
+2025-10-01,General Medicine,Fever,fever,47.6,16.7,India
+2025-11-01,General Medicine,Fever,fever,62.0,3.0,India
+2025-12-01,General Medicine,Fever,fever,64.1,4.3,India
+2025-01-01,General Medicine,Vitamin Deficiency,vitamin deficiency,56.5,-10.6,India
+2025-02-01,General Medicine,Vitamin Deficiency,vitamin deficiency,56.1,12.2,India
+2025-03-01,General Medicine,Vitamin Deficiency,vitamin deficiency,60.8,1.9,India
+2025-04-01,General Medicine,Vitamin Deficiency,vitamin deficiency,65.6,-7.0,India
+2025-05-01,General Medicine,Vitamin Deficiency,vitamin deficiency,63.6,-1.1,India
+2025-06-01,General Medicine,Vitamin Deficiency,vitamin deficiency,57.9,7.6,India
+2025-07-01,General Medicine,Vitamin Deficiency,vitamin deficiency,53.9,10.4,India
+2025-08-01,General Medicine,Vitamin Deficiency,vitamin deficiency,57.5,-11.0,India
+2025-09-01,General Medicine,Vitamin Deficiency,vitamin deficiency,51.6,-1.8,India
+2025-10-01,General Medicine,Vitamin Deficiency,vitamin deficiency,59.4,20.9,India
+2025-11-01,General Medicine,Vitamin Deficiency,vitamin deficiency,54.9,6.5,India
+2025-12-01,General Medicine,Vitamin Deficiency,vitamin deficiency,56.5,4.3,India
+2025-01-01,General Medicine,Immunity,immunity,52.9,-1.1,India
+2025-02-01,General Medicine,Immunity,immunity,60.4,6.4,India
+2025-03-01,General Medicine,Immunity,immunity,61.0,10.6,India
+2025-04-01,General Medicine,Immunity,immunity,57.6,17.4,India
+2025-05-01,General Medicine,Immunity,immunity,52.9,-7.5,India
+2025-06-01,General Medicine,Immunity,immunity,56.4,0.3,India
+2025-07-01,General Medicine,Immunity,immunity,57.6,6.4,India
+2025-08-01,General Medicine,Immunity,immunity,55.6,9.2,India
+2025-09-01,General Medicine,Immunity,immunity,44.4,-18.8,India
+2025-10-01,General Medicine,Immunity,immunity,50.4,13.5,India
+2025-11-01,General Medicine,Immunity,immunity,54.9,-2.0,India
+2025-12-01,General Medicine,Immunity,immunity,52.3,3.0,India
+2025-01-01,General Medicine,Weight Loss,weight loss,67.1,9.8,India
+2025-02-01,General Medicine,Weight Loss,weight loss,69.9,10.0,India
+2025-03-01,General Medicine,Weight Loss,weight loss,68.4,-5.6,India
+2025-04-01,General Medicine,Weight Loss,weight loss,72.6,-6.6,India
+2025-05-01,General Medicine,Weight Loss,weight loss,67.5,1.0,India
+2025-06-01,General Medicine,Weight Loss,weight loss,78.9,-10.8,India
+2025-07-01,General Medicine,Weight Loss,weight loss,70.5,7.1,India
+2025-08-01,General Medicine,Weight Loss,weight loss,64.4,1.5,India
+2025-09-01,General Medicine,Weight Loss,weight loss,62.3,14.3,India
+2025-10-01,General Medicine,Weight Loss,weight loss,56.8,-7.7,India
+2025-11-01,General Medicine,Weight Loss,weight loss,67.0,2.2,India
+2025-12-01,General Medicine,Weight Loss,weight loss,57.2,0.7,India
+2025-01-01,General Medicine,Dehydration,dehydration,82.3,16.2,India
+2025-02-01,General Medicine,Dehydration,dehydration,97.6,17.4,India
+2025-03-01,General Medicine,Dehydration,dehydration,92.6,7.3,India
+2025-04-01,General Medicine,Dehydration,dehydration,94.1,-1.1,India
+2025-05-01,General Medicine,Dehydration,dehydration,80.8,9.5,India
+2025-06-01,General Medicine,Dehydration,dehydration,85.7,3.1,India
+2025-07-01,General Medicine,Dehydration,dehydration,88.7,-3.6,India
+2025-08-01,General Medicine,Dehydration,dehydration,91.7,7.9,India
+2025-09-01,General Medicine,Dehydration,dehydration,86.3,14.3,India
+2025-10-01,General Medicine,Dehydration,dehydration,81.2,8.2,India
+2025-11-01,General Medicine,Dehydration,dehydration,76.2,-10.6,India
+2025-12-01,General Medicine,Dehydration,dehydration,82.9,11.4,India
